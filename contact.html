@@ -2,19 +2,24 @@
 <html>
 <head>
 	<title>Contact</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 </head>
 <body>
 
 <header>
-	<h2>Marlo Bennett</h2>
+	<section class="name">
+		<h2>Marlo Bennett</h2>
+	</section>
 
-	<a href="index.html">About</a>
-	<a href="portfolio.html">Portfolio</a>
-	<a href="contact.html">Contact</a>
-
+	<section class="links">
+		<a href="index.html">About</a>&nbsp;&nbsp;&verbar;&nbsp;&nbsp;
+		<a href="portfolio.html">Portfolio</a>&nbsp;&nbsp;&verbar;&nbsp;&nbsp;
+		<a href="contact.html">Contact</a>
+	</section>
 </header>
 
-<div>
+<section class="main">
 	<h2>Contact</h2>
 
 	<form>
@@ -24,20 +29,18 @@
 		<input type="text" name="email" value="example@gmail.com"><br />
 		Message <br />
 		<textarea name="message" rows="10" cols="30"></textarea><br />
-		<input type="submit" value="Submit">
+		<input type="submit" value="Submit" class="button">
 	</form>
+</section>
 
-</div>
-
-
-<div>
+<section class="sidebar">
 	<h3>Connect with Me</h3>
 
-	<img src="assets/images/GitHub.png">
-	<img src="assets/images/LinkedIn.png">
-	<img src="assets/images/StackOverflow.png">
+	<img src="assets/images/GitHub.png" alt="GitHub logo" class="logo-image">
+	<img src="assets/images/LinkedIn.png" alt="LinkedIn logo" class="logo-image" />
+	<img src="assets/images/StackOverflow.png" alt="Stack Overlow logo" class="logo-image" />
 
-</div>
+</section>
 
 <footer>
 	<p>&copy; Copyright 2016 Marlo Bennett</p>
