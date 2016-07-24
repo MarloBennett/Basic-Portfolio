@@ -1,0 +1,113 @@
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	background-image: url(../images/fresh_snow.png);
+}
+
+header {
+	background-color: #ffffff;
+	border-color: #cccccc;
+	clear: right;
+}
+
+header h2 {
+	color: #ffffff;
+	background-color: #4aaaa5;
+	padding: 20px;
+	width: 125px;
+	margin-top: 0px;
+}
+
+p {
+	font-size: 12px;
+	line-height: 150%;
+	padding-bottom: 12px;
+}
+
+header a {
+	font-size: 12px;
+}
+
+h2, h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	font-weight: bold;
+	border-bottom: 1px solid #dddddd;
+	padding-bottom: 10px;
+	margin-top: 20px;	
+}
+
+.name {
+	float: left;
+	width: 650px;
+	margin-left: 100px;
+	margin-right: 75px;
+}
+
+.links {
+	float: left;
+	width: 270px;	
+	margin-top: 20px;
+}
+
+header a {
+	text-decoration: none;
+}
+
+.main {
+	float: left;
+	width: 650px;
+	margin-left: 100px;
+	background-color: #ffffff;
+	border: 1px solid #dddddd;
+	margin-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.sidebar {
+	float: left;
+	width: 175px;	
+	margin-top: 20px;
+	padding-left: 20px;
+	border: 1px solid #dddddd;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	background-color: #ffffff;
+}
+
+.middle {
+	background-image: url(assets/images/fresh_snow.png);
+
+}
+
+.bio-text {
+	padding-top: 20px;
+}
+
+footer {
+	background-color: #666666;
+	clear: both;
+	padding: 20px;
+	text-align: center;
+	color: #ffffff;
+	font-size: 8px;
+	border-top: 6px solid #4aaaa5;
+}
+
+.bio-image {
+	width: 200px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+.logo-image {
+	width: 50px;
+	
+	padding-top: 20px;
+}
