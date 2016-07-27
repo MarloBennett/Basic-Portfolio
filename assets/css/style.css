@@ -73,8 +73,8 @@ h4 {
 
 .name {
 	float: left;
-	width: 650px;
-	margin-left: 100px;
+	width: 610px;
+	margin-left: 70px;
 	margin-right: 75px;
 }
 
@@ -86,8 +86,8 @@ h4 {
 
 .main {
 	float: left;
-	width: 650px;
-	margin: 20px 20px 20px 100px;
+	width: 610px;
+	margin: 20px 20px 20px 70px;
 	background-color: #ffffff;
 	border: 1px solid #dddddd;
 	padding-right: 20px;
@@ -97,9 +97,9 @@ h4 {
 
 .port-main {
 	float: left;
-	width: 650px;
-	height: 820px;
-	margin: 20px 20px 20px 100px;
+	width: 610px;
+	height: 770px;
+	margin: 20px 20px 20px 70px;
 	background-color: #ffffff;
 	border: 1px solid #dddddd;
 	padding-right: 20px;
@@ -148,7 +148,7 @@ footer {
 input {
 	padding: 10px;
 	margin: 10px 0;
-	width: 630px;
+	width: 580px;
 }
 
 form {
@@ -159,7 +159,7 @@ form {
 textarea {
 	padding: 10px;
 	margin: 10px 0;
-	width: 630px;
+	width: 580px;
 }
 
 .button {
@@ -169,43 +169,43 @@ textarea {
 }
 
 .port-container {
-	width: 650px;
+	width: 610px;
 	position: relative;
 }
 
 .port-image-1 {
-	width: 305px;
+	width: 285px;
 	position: absolute;
 	left: 0px;
 	top: 20px;
 }
 
 .port-image-2 {
-	width: 305px;
+	width: 285px;
 	position: absolute;
-	left: 340px;
+	left: 320px;
 	top: 20px;
 }
 
 .port-image-3 {
-	width: 305px;
+	width: 285px;
 	position: absolute;
 	left: 0px;
-	top: 280px;
+	top: 260px;
 }
 
 .port-image-4 {
-	width: 305px;
+	width: 285px;
 	position: absolute;
-	left: 340px;
-	top: 280px;
+	left: 320px;
+	top: 260px;
 }
 
 .port-image-5 {
-	width: 305px;
+	width: 285px;
 	position: absolute;
 	left: 0px;
-	top: 540px;
+	top: 500px;
 }
 
 .port-text-1 {
@@ -213,21 +213,21 @@ textarea {
 	position: absolute;
 	color: #ffffff;
 	left: 0px;
-	top: 175px;
+	top: 165px;
 	background-color: #4aaaa5;
 	padding: 20px;
-	width: 265px;
+	width: 245px;
 }
 
 .port-text-2 {
 	z-index: 100;
 	position: absolute;
 	color: #ffffff;
-	left: 340px;
-	top: 175px;
+	left: 320px;
+	top: 165px;
 	background-color: #4aaaa5;
 	padding: 20px;
-	width: 265px;
+	width: 245px;
 }
 
 .port-text-3 {
@@ -235,21 +235,21 @@ textarea {
 	position: absolute;
 	color: #ffffff;
 	left: 0px;
-	top: 435px;
+	top: 405px;
 	background-color: #4aaaa5;
 	padding: 20px;
-	width: 265px;
+	width: 245px;
 }
 
 .port-text-4 {
 	z-index: 100;
 	position: absolute;
 	color: #ffffff;
-	left: 340px;
-	top: 435px;
+	left: 320px;
+	top: 405px;
 	background-color: #4aaaa5;
 	padding: 20px;
-	width: 265px;
+	width: 245px;
 }
 
 .port-text-5 {
@@ -257,8 +257,8 @@ textarea {
 	position: absolute;
 	color: #ffffff;
 	left: 0px;
-	top: 695px;
+	top: 645px;
 	background-color: #4aaaa5;
 	padding: 20px;
-	width: 265px;
+	width: 245px;
 }
