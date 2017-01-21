@@ -1,6 +1,6 @@
 # Basic-Portfolio
 
-Creates a one-page portfolio website to match supplied images.
+Creates a multi-page portfolio website to match supplied images.
 
 Technologies used:
 * HTML
